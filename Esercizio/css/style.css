@@ -1,0 +1,180 @@
+/* Your styles here */
+body {
+  line-height: 1.65rem;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  background-color: black;
+  padding: 2rem;
+}
+#logo {
+  width: 115px;
+  display: block;
+  margin-inline: auto;
+}
+.hero {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 2rem;
+  text-align: center;
+  line-height: 1.5;
+}
+h1 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.7rem;
+  line-height: 1;
+}
+p {
+  color: #393d41;
+  margin-top: 1rem;
+}
+button {
+  margin-top: 1.5rem;
+  background-color: #f04c2f;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  padding: 1.2rem;
+  border-radius: 10px;
+  width: 10rem;
+  border: none;
+}
+button:hover {
+  background-color: #f93614ce;
+}
+
+section {
+  padding: 2rem;
+  text-align: center;
+}
+.sottotitoli {
+  color: #25a2c3;
+
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.notebook {
+  width: 100%;
+  margin-top: 2rem;
+  border-radius: 50%;
+}
+
+.testimonial {
+  background-color: #e22d0e;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+.garanzia {
+  font-size: 2.2rem;
+  margin-top: 2rem;
+}
+.p-test {
+  color: white;
+  font-style: italic;
+  font-weight: lighter;
+  padding: 1.2rem;
+  font-size: 1.1rem;
+}
+.ceo {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+.ceo-ep {
+  font-size: 1rem;
+  color: white;
+  font-weight: lighter;
+  margin-bottom: 1.2rem;
+}
+
+.foto-requisiti {
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+.pc {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.sottotitoli2 {
+  color: #25a2c3;
+
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.border {
+  border: 1px solid #dee1e3;
+}
+.p-requisiti {
+  margin-bottom: 2.8rem;
+  margin-inline: 0.8rem;
+  line-height: 1.6;
+}
+.impara {
+  margin-top: -1.5rem;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: white;
+  text-align: center;
+  padding: 2.5rem;
+  margin-top: 2rem;
+  line-height: 1.9;
+}
+h3 {
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-top: 0.5rem;
+}
+.address {
+  color: rgba(255, 255, 255, 0.821);
+  display: inline;
+  font-weight: lighter;
+  font-size: 1.3rem;
+}
+.contact {
+  padding: 2rem;
+}
+.address2 {
+  display: inline;
+  color: rgba(255, 255, 255, 0.821);
+  font-weight: lighter;
+  font-size: 1.3rem;
+}
+.address3 {
+  display: inline;
+  color: rgba(255, 255, 255, 0.821);
+  font-weight: lighter;
+  font-size: 1.3rem;
+}
+a {
+  color: white;
+}
+
+.copy {
+  color: white;
+  margin-bottom: 4rem;
+  color: rgba(255, 255, 255, 0.821);
+}
+
+hr {
+  width: 80%;
+}
+/*Font
+Body:  Open Sans 
+Headings: #25a2c3 – Montserrat (bold) – interlinea 1.5
+Footer: #c8e7f0
+Footer Heading: white
+Footer link: #c8e7f0 */
